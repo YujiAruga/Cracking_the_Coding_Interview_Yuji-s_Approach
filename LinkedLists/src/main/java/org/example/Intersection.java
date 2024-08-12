@@ -8,6 +8,6 @@ public class Intersection {
             return false;
         }
 
-
+        return false;
     }
 }
